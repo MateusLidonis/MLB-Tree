@@ -23,7 +23,7 @@ This project was built with the following technologies:
 
 MLBTree is a link aggregator to use as an online business card.
 
-- [Final result, online](https://mlb-tree.vercel.app/)
+- [Final result, online!](https://mlb-tree.vercel.app/)
 
 
 ## 🔖 Layout
