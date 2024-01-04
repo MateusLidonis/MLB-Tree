@@ -1,6 +1,10 @@
 <h1 align="center"> MLB Tree </h1>
 
 <p align="center">
+  <img alt="Logo" src=".github/logo.png" width="200px" height="200px">
+</p>
+
+<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
@@ -24,7 +28,6 @@ This project was built with the following technologies:
 MLBTree is a link aggregator to use as an online business card.
 
 - [Final result, online!](https://mlb-tree.vercel.app/)
-
 
 ## 🔖 Layout
 
