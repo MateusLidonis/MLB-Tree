@@ -1,14 +1,10 @@
 <h1 align="center"> MLB Tree </h1>
 
 <p align="center">
-  <img alt="Logo" src=".github/logo.png" width="200px" height="200px">
+  <img alt="Logo" src=".github/logo.png" width="150px" height="150px">
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
+---
 
 <p align="center">
   <img alt="Projeto MLBTree" src=".github/preview.jpg" width="100%">
