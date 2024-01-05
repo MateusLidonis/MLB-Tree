@@ -1,4 +1,4 @@
-<h1 align="center"> DevTree </h1>
+<h1 align="center"> MLB Tree </h1>
 
 <p align="center">
   <img alt="Logo" src=".github/logo.png" width="150px" height="150px">
