@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  ![MLB Tree GIF](./assets/MLBTree.gif)
+  ![MLB Tree GIF](.github/MLBTree.gif)
 </p>
 
 ## 🚀 Technologies
