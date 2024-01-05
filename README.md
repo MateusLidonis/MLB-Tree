@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img alt="Projeto MLBTree" src=".github/preview.jpg" width="100%">
+  ![MLB Tree GIF](./assets/MLBTree.gif)
 </p>
 
 ## 🚀 Technologies
