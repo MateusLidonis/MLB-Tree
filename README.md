@@ -6,9 +6,9 @@
 
 ---
 
-<p align="center">
-  ![MLB Tree GIF](.github/MLBTree.gif)
-</p>
+![MLB Tree GIF](.github/MLBTree.gif)
+
+---
 
 ## 🚀 Technologies
 
